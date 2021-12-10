@@ -1,4 +1,4 @@
-# spectroscopic-calibrations
+# Spectroscopic-Calibrations
 Spectroscopic Analysis of Atmospheric Parameters and Abundances for 50 FGK stars
 
 A better visualization of the iPython Notebook can be seen in the link down below:
